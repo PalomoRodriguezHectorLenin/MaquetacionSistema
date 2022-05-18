@@ -1,0 +1,70 @@
+#consejostitulo{
+    position: absolute;
+    top: 40px;
+    left: 300px;
+    background-color: rgba(93,31,31,255);
+    text-align: center;
+    border-radius: 25px;
+    padding: 15px;
+    width: 200px;
+}
+
+#txtconsejos{
+
+}
+
+#volverinicio4{
+    position: absolute;
+    top: 50px;
+    right: 500px;
+}
+
+#Boton1{
+    width: 150px;
+    height: 50px;
+}
+
+#txtconsejos{
+    font-size: 20px;
+}
+
+#hogar{
+    position: absolute;
+    top: 200px;
+    left: 200px;
+    background-color: rgba(93,31,31,255);
+    text-align: center;
+    border-radius: 25px;
+    padding: 15px;
+    width: 130px;
+}
+
+#cuidaperso{
+    position: absolute;
+    top: 300px;
+    left: 200px;
+    background-color: rgba(93,31,31,255);
+    text-align: center;
+    border-radius: 25px;
+    padding: 15px;
+    width: 130px;
+}
+
+#adminidinero{
+    position: absolute;
+    top: 400px;
+    left: 200px;
+    background-color: rgba(93,31,31,255);
+    text-align: center;
+    border-radius: 25px;
+    padding: 15px;
+    width: 130px;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url(../imagenes/freedom.png);
+    background-repeat: no-repeat;
+    background-size: 100% 950%;
+}

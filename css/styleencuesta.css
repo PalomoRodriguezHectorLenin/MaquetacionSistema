@@ -1,0 +1,28 @@
+#encuesta{
+    position: absolute;
+    top: 50px;
+    left: 500px;
+    background-color: dimgray;
+    height: 400px;
+    width: 400px;
+}
+
+#e{
+    font-size: 30px;
+    text-align: center;
+}
+
+#boton4{
+    position: absolute;
+    left: 650px;
+    top: 490px;
+}
+
+#boton41{
+    width: 130px;
+    height: 40px;
+}
+
+body{
+    background-color: rgb(154,50,51,255);
+}

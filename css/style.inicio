@@ -1,0 +1,88 @@
+#bienvenida{
+    position: absolute;
+    top: 200px;
+    left: 350px;
+    width: 150px;
+    height: 40px;
+    background-color: rgba(93,31,31,255);
+    text-align: center;
+    border-radius: 25px;
+    padding: 15px;
+}
+
+#txtbienvenida{
+    font-size: 20px;
+    position: relative;
+    top: -10px;    
+}
+
+#pregunta{
+    position: absolute;
+    top: 300px;
+    left: 350px;
+    width: 150px;
+    height: 60px; 
+    background-color: rgba(93,31,31,255);
+    text-align: center;
+    border-radius: 25px;
+    padding: 10px;
+}
+
+#txtpregunta{
+    font-size: 15px;
+    position: relative;
+    top: -10px;
+    text-align: center;
+}
+
+#Dinero{
+    position: absolute;
+    right: 470px;
+    top: 100px;
+}
+
+#botondinero{
+    width: 130px;
+    height: 50px;
+}
+
+#Establecimientos{
+    position: absolute;
+    right: 470px;
+    top: 200px;
+}
+
+#botonestablecimientos{
+    width: 130px;
+    height: 50px;
+}
+
+#Transporte{
+    position: absolute;
+    right: 470px;
+    top: 300px; 
+}
+
+#botontransporte{
+    width: 130px;
+    height: 50px;
+}
+
+#Consejos{
+    position: absolute;
+    right: 470px;
+    top: 400px;
+}
+
+#botonconsejos{
+    width: 130px;
+    height: 50px;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    background-repeat: no-repeat;
+    background-size: 100% 800%;
+    background-image: url(../imagenes/freedom.png);
+}

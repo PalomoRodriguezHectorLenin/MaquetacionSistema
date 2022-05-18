@@ -1,0 +1,59 @@
+#txtregistro{
+    font-size: 35px;
+    color: beige;
+}
+
+#tituloregistro{
+    position: absolute;
+    left: 620px;
+    top: 10px;
+}
+
+#nombre{
+    position: absolute;
+    left: 400px;
+    top: 100px;
+}
+
+#apellido{
+    position: absolute;
+    right: 400px;
+    top: 100px;
+}
+
+#emailotelf{
+    position: absolute;
+    left: 475px;
+    top: 200px;
+}
+
+#passwordreg{
+    position: absolute;
+    left: 600px;
+    top: 250px;
+}
+
+#passwordregre{
+    position: absolute;
+    left: 535px;
+    top: 300px;
+}
+
+#boton3{
+    position: absolute;
+    left: 620px;
+    top: 350px;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    background: url(../imagenes/freedom.png);   
+    background-size: 100% 550%;
+    background-repeat: no-repeat;
+}
+
+#boton31{
+    height: 40px;
+    width: 130px;
+}

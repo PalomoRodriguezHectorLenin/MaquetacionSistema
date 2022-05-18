@@ -1,0 +1,53 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgba(154,50,51,255);  
+    background-repeat: no-repeat;
+    background-size: 100% 180%;
+    font-family: sans-serif;
+}
+
+#logo{
+    position: absolute;
+    left: 550px;
+    top: 10px;
+}
+
+#txtnc{
+    font-size: 40px;
+}
+
+#eelf{
+    position: absolute;
+    left: 550px;
+    top: 300px;
+}
+
+#password{
+    position: absolute;
+    left: 550px;
+    top: 350px;
+}
+
+#boton1{
+    position: absolute;
+    left: 620px;
+    top: 400px;
+
+}
+
+#boton2{
+    position: absolute;
+    left: 620px;
+    top: 450px;
+}
+
+#boton11{
+    width: 130px;
+    height: 40px;
+}
+
+#boton21{
+    width: 130px;
+    height: 40px;
+}
